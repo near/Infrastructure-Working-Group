@@ -2,7 +2,7 @@
 name: Defect Report
 about: Create a report to help us improve
 title: "[DEFECT] "
-labels: ''
+labels: triage
 assignees: ''
 
 ---
