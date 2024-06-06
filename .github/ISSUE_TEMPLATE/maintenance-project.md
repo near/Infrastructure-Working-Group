@@ -2,7 +2,7 @@
 name: Maintenance Project
 about: A project in Maintenance mode.
 title: "[MAINTENANCE] "
-labels: ''
+labels: Maintenance Project
 assignees: ''
 
 ---

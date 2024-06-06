@@ -2,7 +2,7 @@
 name: Project
 about: A top level issue that houses all tasks related to it.
 title: "[PROJECT] "
-labels: ''
+labels: Project
 assignees: ''
 
 ---

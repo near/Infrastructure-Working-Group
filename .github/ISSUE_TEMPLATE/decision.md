@@ -2,7 +2,7 @@
 name: Decision
 about: Use this to track decisions to be made
 title: "[DECISION] "
-labels: decision pending
+labels: decision pending, Decision
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Task
 about: A work item in support of completing a project.
 title: "[TASK] "
-labels: ''
+labels: Task
 assignees: ''
 
 ---
